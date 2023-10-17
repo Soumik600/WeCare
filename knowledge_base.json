@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "could you plz tell me how could you help me",
+      "answer": "Hi i am We-CARE chatbot a one stop solution to all of your  mental health issues"
+    },
+    {
+      "question": "I am having anxiety",
+      "answer": "plz don't take too much stress"
+    },
+    {
+      "question": "help me",
+      "answer": "Yes! of course"
+    },
+    {
+      "question": "thanks",
+      "answer": "you'r welcome! ready to help anytime"
+    }
+  ]
+}
